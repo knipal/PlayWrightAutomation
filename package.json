@@ -1,0 +1,21 @@
+{
+  "name": "playwrightautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knipal/PlayWrightAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knipal/PlayWrightAutomation/issues"
+  },
+  "homepage": "https://github.com/knipal/PlayWrightAutomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
